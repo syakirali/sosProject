@@ -5,7 +5,6 @@ Website berbasis laravel (versi 5.4) tentang sosialisasi serta ploting suatu keg
 1. php versi 7 keatas (alternatinya pakai xampp versi 3 keatas)
 2. mysql-server (alternatifnya pakai xampp versi 3 keatas)
 3. composer, download di https://getcomposer.org/Composer-Setup.exe
-3. 
 
 # cara instalasi di laptop
 1. download project (buka https://github.com/syakirali/sosProject lalu klik "clone or download", kemudian "download zip")
